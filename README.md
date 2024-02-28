@@ -4,7 +4,6 @@
 
 [![Linkedin: Isaac Lee](https://img.shields.io/badge/-IsaacLee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-lee-459a15143/)](https://www.linkedin.com/in/isaac-lee-459a15143/)
 [![Gmail: Isaac Lee](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:hool19965401@gmail.com)](mailto:hool19965401@gmail.com)
-
 <br>
 
 ### 💼 Work Experience
