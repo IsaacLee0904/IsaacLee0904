@@ -1,4 +1,4 @@
-# Hi, I'm Isaac a data engineer in Taiwan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Isaac a data scientist with a background in political science, based in Taiwan.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 > One day you will thank the challenges that once forced you to change.
 
