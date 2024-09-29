@@ -8,11 +8,23 @@
 
 ### 💼 Work Experience
 
-Data Engineer in game industry.  
-  * Extracting key data from the game log database to analyze various game mechanics such as player behavior, transaction records, combat logs, etc.
-  * Gained a understanding of log recording algorithms, used SQL for data cleaning to ensure data quality and consistency.
-  * Developed automated scripts in Python for data cleansing, transforming raw data into structured format, providing well-prepared training data for machine learning models.
+Data Scientist in game industry.  
+  * **Intelligent Customer Service System - Customer Complaint Summarization :**
+    
+    Led the creation of an advanced customer service system that employs large language models (LLM), LangChain, and prompt engineering for effective summarization of customer complaints.      Utilized a mix of abstractive and extractive summarization techniques, fine-tuning the models using Odds Ratio Policy Optimization (ORPO) to enhance both automation and accuracy of the     generated summaries.
+    
+  * **Data Engineering and Analysis in Gaming Ecosystem :**
+    
+    Led the extraction and processing of over 60 million daily records from game log databases, covering player behavior and game mechanics. Enhanced data accuracy by 30% using advanced
+    SQL cleaning techniques and reduced manual processing by 40% through automated Python scripts. Partnered with machine learning engineers to develop predictive models that improve
+    gaming experiences and strategic decision-making.
 
+  * **Reconstructed Web Scraping Environment and Project :**
+
+    Transitioned from CentOS to Ubuntu to redesigned the external web scraping environment, containerized the project using Docker, and managed scheduling with Airflow. Implemented data
+    quality assurance mechanisms and integrated Telegram alerts, reducing maintenance costs by 20% and eliminating the need for frequent manual updates of ChromeDriver. Enhanced data
+    stability by 40%.
+    
 ### 💻 GitHub Stats
 
 ![Isaac Lee's github stats](https://github-readme-stats.vercel.app/api?username=IsaacLee0904&show_icons=true&theme=great-gatsby)
