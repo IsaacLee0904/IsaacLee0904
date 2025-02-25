@@ -11,19 +11,25 @@
 Data Scientist in game industry.  
   * **Intelligent Customer Service System - Customer Complaint Summarization :**
     
-    Led the creation of an advanced customer service system that employs large language models (LLM), LangChain, and prompt engineering for effective summarization of customer complaints.      Utilized a mix of abstractive and extractive summarization techniques, fine-tuning the models using Odds Ratio Policy Optimization (ORPO) to enhance both automation and accuracy of the     generated summaries.
+    Pioneer an advanced customer service system utilizing large language models (LLM) and GraphRAG technology to intelligently summarize customer complaints, replacing the original manual  
+    workflow and reducing labor costs by 20%, while providing search-like functionality. By implementing generative summarization with fine-tuned models, improve the system accuracy by
+    400%.
+
+  * **Big Data Architecture Optimization :**
+
+    Redesign the existing big data architecture (Hadoop and Hive ecosystem), adopting modern data stack tools such as dbt and Airflow, while integrating DataOps and DevOps processes to
+    significantly improve data quality and system stability. Establish comprehensive Data Governance standards to ensure data readability and consistency. Reduce storage waste by 30% and
+    improve data pipeline stability by 40%, while ensuring high scalability and significantly lowering long-term maintenance costs.
     
   * **Data Engineering and Analysis in Gaming Ecosystem :**
     
-    Led the extraction and processing of over 60 million daily records from game log databases, covering player behavior and game mechanics. Enhanced data accuracy by 30% using advanced
-    SQL cleaning techniques and reduced manual processing by 40% through automated Python scripts. Partnered with machine learning engineers to develop predictive models that improve
-    gaming experiences and strategic decision-making.
+    Lead the extraction and processing of over 60 million daily records from game log databases, optimizing SQL queries and implementing data cleaning processes to improve data accuracy by
+    30%. Leverage Python automation scripts to reduce manual processing time by 40%, while analyzing the gaming ecosystem to generate insights on player behavior patterns, interaction
+    chains, and money laundering.
 
   * **Reconstructed Web Scraping Environment and Project :**
 
-    Transitioned from CentOS to Ubuntu to redesigned the external web scraping environment, containerized the project using Docker, and managed scheduling with Airflow. Implemented data
-    quality assurance mechanisms and integrated Telegram alerts, reducing maintenance costs by 20% and eliminating the need for frequent manual updates of ChromeDriver. Enhanced data
-    stability by 40%.
+    Redesign web scraping infrastructure using Ubuntu and Docker, implement Airflow scheduling and Telegram alerts, reducing maintenance costs by 20% while improving data stability by 40%.
     
 ### 💻 GitHub Stats
 
